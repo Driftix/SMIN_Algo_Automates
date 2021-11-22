@@ -9,7 +9,6 @@ public class Controller {
         transitions.add(transition1);
         transitions.add(transition2);
         transitions.add(transition3);
-
         for(Transition t : transitions){
             System.out.println(t.toString());
         }
